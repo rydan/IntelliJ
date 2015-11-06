@@ -1,0 +1,5 @@
+private static final Logger logger = Logger.getLogger($CLASS_NAME$.class);
+
+In Edit Variables, set CLASS_NAME to className()
+
+Available in: Java: declaration
